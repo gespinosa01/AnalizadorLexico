@@ -1,0 +1,3 @@
+doble num1 = 10.89;
+	entero num3 = 10 #comentario
+
